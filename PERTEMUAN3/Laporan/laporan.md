@@ -25,15 +25,25 @@ System.out.println();
 
 3. Kesalahan terletak pada coding tersebut kekurangan bagian instan objek yang seharusnya 
 PgArray[5].persegi;
-4. MODIFIKASI
+4.  
+<img src="ss/gambar1.png">
+ <img src="ss/gambar2.png">
+  <img src="ss/gambar3.png">
 5. Tidak boleh, karena akan menimbulkan kerancuan.
 
 ## Praktikum 3.4.3 
 JAWABAN 
  1. Boleh, karena konstruktor akan diproses jika ada pemanggialn
-2. <img src="gambar1.png">
+2. 
+<img src="ss/gambar4.png">
+
 3. 
-4.
-5.
+<img src="ss/gambar5.png">
+
+4. 
+<img src="ss/gambar6.png">
+
+5. 
+<img src="ss/gambar7.png">
 
 
